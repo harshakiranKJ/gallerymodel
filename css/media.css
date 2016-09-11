@@ -1,0 +1,10 @@
+@media only screen and (max-width: 1300px){
+   .editUpBar-wrap{display:none;}
+   .edit-upBar .barsShow{display:block;}
+}
+@media only screen and (max-width: 850px){
+   .edit-sideTable{margin-left:-270px;opacity:0;}
+   #myGallery{width:100%;margin-left:0px;}
+  .editUpBar-wrap{margin-left:0px;}
+   .edit-upBar .eth-head{margin-left:0px;width:100%;text-align:center;float:left;}
+}
